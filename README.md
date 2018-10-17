@@ -1,4 +1,4 @@
-# Phuket (Design Patterns)
+# Phuket (Gang of Four Design Patterns)
 Code Samples for the Blog Article [Design Patterns - Series I (01/02)] 
 <br>
 
