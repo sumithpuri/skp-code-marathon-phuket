@@ -8,7 +8,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>skp-code-marathon-phuket</name>
+	<name>Phuket : Design Patterns - Series I (Gang Of Four)</name>
 	<url>http://maven.apache.org</url>
 
 	<properties>
@@ -67,4 +67,5 @@
 			</plugin>
 		</plugins>
 	</build>
+	<description>Code Samples for the Blog Article [Design Patterns - Series I (Gang Of Four)]</description>
 </project>
